@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "828538848215",
+    "project_id": "my-first-firebase-projec-74757",
+    "storage_bucket": "my-first-firebase-projec-74757.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:828538848215:android:9ec3a40f9ddb9bf8078192",
+        "android_client_info": {
+          "package_name": "com.alekseykostyunin.hw20_firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD29LCafN03gOUuWbE_rnb_LgPxBNMEDY4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
